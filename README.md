@@ -5,7 +5,7 @@ The dataset is sourced from xlsx files that are annually published by the Office
 
 The dataset is presented in the following format:
 
-- csv
+- CSV (Delimiter - semicolon)
 - RData
 
 Each row of the dataset represents individual articles of the Criminal Code of Ukraine for the corresponding years as observations. Additionally, a reference of these articles in both Ukrainian and English, considering their changes at the time of the dataset preparation, is provided in the _DIMENSIONS_ folder.
